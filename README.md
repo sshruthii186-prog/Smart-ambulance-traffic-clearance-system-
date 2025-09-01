@@ -5,13 +5,13 @@ Ambulances are often delayed due to heavy traffic and unmanaged signals, leading
 
 
 2. Proposed Solution  
-This project introduces a **software-based Smart Traffic Light Management System** that:
+This project introduces a software-based Smart Traffic Clearance System that:
 - Detects when an ambulance is approaching an intersection.
 - Automatically turns traffic lights green for the ambulance route.
 - Notifies traffic authorities to clear the path.
 - Alerts hospitals about the ambulance’s arrival in advance.  
 
-Unlike hardware-based models, this project is designed as a **software prototype**, making it easier to simulate, test, and demonstrate.
+Unlike hardware-based models, this project is designed as a software prototype, making it easier to simulate, test, and demonstrate.
 
 
 3. Stakeholders & Their Roles  
@@ -42,9 +42,11 @@ Unlike hardware-based models, this project is designed as a **software prototype
 5. System reduces patient risk by minimizing travel delays.  
 
 5. Technologies Used  
-- Frontend & Backend:** Python (Flask), HTML, CSS  
-- Simulation & Test Data:** Excel (test cases), diagrams, mockups  
-- **Optional Future Add-ons:** GPS APIs, mobile application, live traffic signal integration  
+-Figma→ For designing and simulating the prototype screens.  
+- Canva / PowerPoint→ For project presentation slides.  
+- MS Excel→ For preparing and documenting test cases.  
+- GitHub→ For version control and project documentation.
+
 
 
 6. Repository Contents  
